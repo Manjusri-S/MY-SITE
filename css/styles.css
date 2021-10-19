@@ -1,0 +1,154 @@
+div{
+    
+    padding: 15px;
+   
+    
+}
+body{
+    margin:0;
+    color: #40514E;
+}
+h1{
+    font-size: 4.5rem;
+    margin:50px auto 0 auto;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+
+}
+p{
+    line-height: 2;
+}
+a{
+    color: #007377;
+    font-family: 'Philosopher', sans-serif;
+    margin: 10px 40px;
+    text-decoration: none;
+}
+a:hover{
+    color:#f8f7f7;
+}
+.web{
+    font-family:  "fantasy",papyrus;
+}
+.bottom-cloud{
+    position: absolute;
+    left:250px;
+    bottom:300px;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+.top-container{
+    padding: 100px;
+    background-color: #ddfaf5;
+    line-height: 2;
+    text-align: center;
+}
+.name{
+    font-family: 'Sacramento', cursive;
+}
+.name:hover{
+    color: coral;
+}
+.first-sentance:hover{
+    color:rgb(250, 246, 4);
+}
+.middle-container{
+    background-color: #FDEFEF;
+    
+}
+.bottom-container{
+    background-color: #48beab;
+    text-align: center;
+    padding: 40px 0 20px;
+    margin: 0;
+
+}
+.third-cloud{
+    position: absolute;
+    right: 50px;
+    top:350px;
+}
+.first-sentance{
+    font-size: 2rem;
+    color: #42acac;
+    font-weight: normal;
+}
+hr{
+    border-style:dotted none none;
+    border-width: 4px;
+    width:7%;
+    border-color: grey;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Rampart One', cursive;
+    text-align: center;
+    padding-bottom: 10PX;
+}
+h3{
+    color: #11999E;
+    font-family: 'Philosopher', sans-serif;
+    
+}
+
+.contact-me{
+    text-align: center;
+}
+.profile{
+    text-align: center;
+}
+.web-sentance{
+    margin-top: 0%;
+}
+.datascience{
+    border-radius: 30px;
+}
+.data-sentance{
+    text-align: left;
+}
+.webimage{
+    border-radius: 30px;
+}
+.python{
+    border-radius: 30px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 2px 2px 0px #666666;
+    font-family: 'Philosopher', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AB);
+    text-decoration: none;
+  }
+  .last-name{
+      color: white;
+  }
